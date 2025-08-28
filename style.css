@@ -1,0 +1,44 @@
+* {
+    max-width: 50vw;
+}
+
+body {
+    margin: 0 auto;
+    padding: 50px;
+    background-color: #141414;
+
+}
+
+.vic {
+    width: 188px;
+    border-radius: 100px;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: rgb(177, 177, 177);
+    text-decoration: none;
+}
+
+.arrow {
+    width: 8px;
+}
+
+.link {
+    background-color: rgb(31, 31, 31);
+    padding: 30px;
+    margin-top: 30px;
+    border-radius: 30px;
+    max-width: 150px;
+}
+
+small {
+    color: rgb(177, 177, 177);
+    margin-top: 80px;
+}
+
+
+
